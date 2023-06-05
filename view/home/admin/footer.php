@@ -1,0 +1,1 @@
+<!-- All JS is here============================================ --><!-- jQuery JS --><script src="<?= URL . '/public/admin/js/vendor/jquery-1.12.4.min.js' ?>"></script><!-- Main JS --><script src="<?= URL . '/public/admin/js/main.js' ?>"></script><script src="<?= URL . '/public/admin/js/vendor/modernizr-2.8.3.min.js' ?>"></script></body></html>
