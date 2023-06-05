@@ -16,7 +16,6 @@
       <change afterPath="$PROJECT_DIR$/model/model_adminsettings.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/model/model_index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/model/model_login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/model_samplework.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/admin/css/_about-us.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/admin/css/_blog.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/admin/css/_slider.css" afterDir="false" />
@@ -328,13 +327,20 @@
       <change afterPath="$PROJECT_DIR$/view/home/login/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/view/home/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/view/home/sampleworks/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controler/adminsampleworks.php" beforeDir="false" afterPath="$PROJECT_DIR$/controler/adminsampleworks.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controler/adminservices.php" beforeDir="false" afterPath="$PROJECT_DIR$/controler/adminservices.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/1685959326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/1685959338.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/1685959358.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/1685959367.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/files/download (1).jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/files/download.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/model_adminsampleworks.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/model_adminsampleworks.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/model_adminservices.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/model_adminservices.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model_samplework.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/model_samplework.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nazanin.rar" beforeDir="false" afterPath="$PROJECT_DIR$/nazanin.rar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/home/admin/sampleworks/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/home/admin/sampleworks/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -396,7 +402,7 @@
       <workItem from="1685874158870" duration="2091000" />
       <workItem from="1685878735113" duration="1981000" />
       <workItem from="1685891088503" duration="3222000" />
-      <workItem from="1685952495237" duration="6474000" />
+      <workItem from="1685952495237" duration="7101000" />
     </task>
     <servers />
   </component>

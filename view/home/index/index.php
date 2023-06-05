@@ -172,6 +172,36 @@ $option = model::get_option();
                 <h4 class="contact-text"><?= $option['phone'] ?></h4>
             </div>
         </article>
+        <article class="contact-form">
+            <h3>تماس با ما</h3>
+
+            <form>
+                <div class="form-group">
+                    <input
+                            class="form-control"
+                            type="text"
+                            placeholder="نام"
+                            name="name"
+                    />
+                    <input
+                            class="form-control"
+                            type="email"
+                            placeholder="ایمیل"
+                            name="email"
+                    />
+                    <textarea
+                            name="message"
+                            placeholder="متن پیام"
+                            class="form-control"
+                            rows="5"
+                    ></textarea>
+                </div>
+
+                <button type="submit" class="btn submit-btn">
+                    ارسال پیام
+                </button>
+            </form>
+        </article>
 
     </div>
 </section>
