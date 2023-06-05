@@ -14,7 +14,7 @@ class model_samplework extends model
 
     public function paginate($service_id)
     {
-        $per_page_record = 6;
+        $per_page_record = 12;
         if (isset($_GET["page"])) {
             $page  = $_GET["page"];
         }
@@ -32,7 +32,7 @@ class model_samplework extends model
     {
         $sql = "SELECT * FROM tbl_samplework where service_id = ?";
         $allRows = model::doSelect($sql , [$service_id]);
-        $paginateRows = round(count($allRows ) / 6 )+1;
+        $paginateRows = round(count($allRows ) / 12 )+1;
         return $paginateRows;
     }
 

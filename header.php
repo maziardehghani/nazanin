@@ -1,7 +1,7 @@
 <?php
 $option_header = model::get_option();
 
-//$categories = model::Categories();
+
 
 
 ?>
